@@ -39,8 +39,6 @@ Customer reviews on e-commerce platforms provide valuable insights into the sent
 - Matplotlib
 - Seaborn
 
-Install dependencies using `pip install -r requirements.txt`.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
